@@ -12,5 +12,5 @@ hello xiyue! hello git!
 hello xiyue! hello git!
 hello xiyue! hello git!
 hello xiyue! hello git!
-hello xiyue! hello git!
-hello xiyue! hello git!
+hello xiyue! hello git! 
+hello xiyue! hello git! hot-fix test

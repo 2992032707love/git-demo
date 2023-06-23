@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="product" />
+        <module name="mybatis" />
+        <module name="admin" />
+        <module name="generator" />
+        <module name="customGateway" />
+        <module name="redis" />
+        <module name="businessGateway" />
+        <module name="file" />
+        <module name="web" />
+        <module name="elastic" />
+        <module name="admin2" />
+        <module name="entity" />
+        <module name="gateway" />
+        <module name="email" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="product (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

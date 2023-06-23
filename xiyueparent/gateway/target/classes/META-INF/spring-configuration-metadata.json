@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "xiyue.white",
+      "type": "com.rts.core.White",
+      "sourceType": "com.rts.core.White"
+    }
+  ],
+  "properties": [
+    {
+      "name": "xiyue.white.urls",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.rts.core.White"
+    }
+  ],
+  "hints": []
+}
